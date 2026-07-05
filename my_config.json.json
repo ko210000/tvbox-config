@@ -1,0 +1,166 @@
+{
+  "sites": [
+    {
+      "key": "feimao",
+      "name": "肥猫",
+      "type": 3,
+      "api": "http://肥猫.net",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "moyuer",
+      "name": "摸鱼儿",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wangxiaoer",
+      "name": "王二小放牛娃",
+      "type": 3,
+      "api": "http://tvbox.王二小放牛娃.top",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wangxiaoer_new",
+      "name": "王二小放牛娃(新)",
+      "type": 3,
+      "api": "https://9280.kstore.vip/newwex.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dongmancheng",
+      "name": "动漫城",
+      "type": 3,
+      "api": "https://www.yingm.cc/dm/dm.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cainisi",
+      "name": "菜妮丝",
+      "type": 3,
+      "api": "https://tv.菜妮丝.top",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hg",
+      "name": "HG接口",
+      "type": 3,
+      "api": "https://api.hgyx.vip/hgyx.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dxawi",
+      "name": "dxawi",
+      "type": 3,
+      "api": "https://dxawi.github.io/0/0.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xiaohezi",
+      "name": "小盒子",
+      "type": 3,
+      "api": "http://xhztv.top/xhz",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xiaohezi_4k",
+      "name": "小盒子4K",
+      "type": 3,
+      "api": "http://xhztv.top/4k.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xiangyaqing",
+      "name": "香雅情",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "baohe_vip",
+      "name": "宝盒VIP",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ouge",
+      "name": "欧歌",
+      "type": 3,
+      "api": "https://xn--anna-wn6lw489o.v.nxog.top/m/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zhenxin",
+      "name": "真心",
+      "type": 3,
+      "api": "https://www.252035.xyz/z/FongMi.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fuma",
+      "name": "驸马",
+      "type": 3,
+      "api": "http://fmys.top/fmys.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fenxiang",
+      "name": "分享",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/maoystv/6/main/000.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "duanju",
+      "name": "短剧",
+      "type": 3,
+      "api": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dongli",
+      "name": "东篱线路",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
